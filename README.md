@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[<img align="left" alt="levi956 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/levi_956/]
-[<img align="left" alt="levi956 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/odumirin-nifesi-7a48361b5]
-[<img align="left" alt="levi956 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][http://Instagram.com/nifesi__]
+[<img align="left" alt="levi956 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="levi956 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkdin]
+[<img align="left" alt="levi956 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]: https://twitter.com/levi_956/
+[instagram]: http://Instagram.com/nifesi__
+[linkedin]: https://www.linkedin.com/in/odumirin-nifesi-7a48361b5
