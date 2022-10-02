@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
+[![Nifesi Odumirn](https://github-readme-stats.vercel.app/api?username=levi956)](https://github.com/levi956/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levi956&langs_count=5&theme=light)]()
+
 
 #### Connect with me:
 
