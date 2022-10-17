@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Application development with the Flutter Dart framework.
-- 🌱 I’m currently learning Ionic, Javascript and Python Libraries.
+- 🌱 I’m currently learning Golang and Python Libraries.
 - 👯 I’m looking to collaborate with teams of software developers.
 - ⚡ Fun fact: I love ducks lol ...
 -  📫 How to reach me: send me an email at nifesiodumirin@gmail.com
