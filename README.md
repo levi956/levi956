@@ -21,10 +21,6 @@ I dive into the intricate world of code and technology, I orchestrate seamless a
 - 😄 Pronouns: ...
 -->
 
-[![Nifesi Odumirn](https://github-readme-stats.vercel.app/api?username=levi956)](https://github.com/levi956/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levi956&langs_count=5&theme=light)]()
-
-
 <h6 align="center">SOCIAL MEDIA LINKS</h6>
 
 <p align="center">
