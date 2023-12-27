@@ -25,12 +25,12 @@ I dive into the intricate world of code and technology, I orchestrate seamless a
 
 <p align="center">
   <a href="https://github.com/levi956">
-    <img src="https://img.shields.io/badge/-@levi956%20Ijachi-%23000814?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/-@levi956%20Nifesi-%23000814?style=flat-square&logo=github" />
   </a>
 
 
   <a href="https://www.linkedin.com/in/nifesi-odumirin-7a48361b5/">
-    <img src="https://img.shields.io/badge/-@Pius%20Adams%20Ijachi-%230077B5?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-@Pius%20Nifesi%20Odumirin-%230077B5?style=flat-square&logo=linkedin" />
   </a>
 </p>
 <br/>
