@@ -1,5 +1,3 @@
-### Hi, I'm Nifesi 👋👨‍💻
-#### I'm a dedicated and engaged IT enthusiaist that works with computer programs, technology and software to create and innovate products.
 
 <!--
 **levi956/levi956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,11 +6,14 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Application development with the Flutter Dart framework.
-- 🌱 I’m currently learning Golang and Python Libraries.
-- 👯 I’m looking to collaborate with teams of software developers.
-- ⚡ Fun fact: I love ducks lol ...
--  📫 How to reach me: send me an email at nifesiodumirin@gmail.com
+### Hey there, I'm Nifesi,
+
+I dive into the intricate world of code and technology, I orchestrate seamless and dazzling experiences through the magic of Flutter Dart. As a fervent mobile development enthusiast, I'm not just about crafting lines of code; I'm about sculpting digital marvels that breathe life into apps.
+
+📱 Fluttering in mobile development, I wield the Dart language like a virtuoso, conducting harmonies of user-friendly interfaces and powerful functionalities. With a knack for innovation and an insatiable curiosity, I'm amplifying my skills in Golang and Python libraries.
+
+💡 Fun Fact: Ducks might quack, but I code with a roar! 🦆🚀
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
