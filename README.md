@@ -25,26 +25,52 @@ I dive into the intricate world of code and technology, I orchestrate seamless a
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levi956&langs_count=5&theme=light)]()
 
 
-#### Connect with me:
+<h6 align="center">SOCIAL MEDIA LINKS</h6>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-### 🧰 Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="MacOs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
-<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<p align="center">
+  <a href="https://github.com/levi956">
+    <img src="https://img.shields.io/badge/-@levi956%20Ijachi-%23000814?style=flat-square&logo=github" />
+  </a>
 
 
-[twitter]: https://twitter.com/levi_956/
-[instagram]: http://Instagram.com/nifesi__
-[linkedin]: https://www.linkedin.com/in/odumirin-nifesi-7a48361b5
-[discord]: https://discordapp.com/users/618488893846585364/
+  <a href="https://www.linkedin.com/in/nifesi-odumirin-7a48361b5/">
+    <img src="https://img.shields.io/badge/-@Pius%20Adams%20Ijachi-%230077B5?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+<br/>
+
+<h6 align="center">MY TECH STACK</h6>
+<p align="center">
+
+  <a href="Dart">
+    <img src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dartt&logoColor=white" />
+  </a>
+
+  <a href="Flutter">
+    <img src="https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter" />
+  </a>
+
+  <a href="Python">
+    <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=python" />
+  </a>
+
+  <a href="Swift">
+    <img src="https://img.shields.io/badge/-Swift-%23F05032?style=flat-square&logo=swift&logoColor=%23ffffff" />
+  </a>
+
+  <a href="GIT">
+    <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
+  </a>
+
+  <a href="Visual Studio Code">
+    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
+  </a>
+
+  <a href="Firebase">
+    <img src="https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=F29111" />
+  </a>
+</p>
+<br/>
+
+
+<br/>
