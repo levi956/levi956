@@ -39,7 +39,7 @@ I dive into the intricate world of code and technology, I orchestrate seamless a
 <p align="center">
 
   <a href="Dart">
-    <img src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dartt&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dart&logoColor=white" />
   </a>
 
   <a href="Flutter">
@@ -63,7 +63,7 @@ I dive into the intricate world of code and technology, I orchestrate seamless a
   </a>
 
   <a href="Firebase">
-    <img src="https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=F29111" />
+    <img src="https://img.shields.io/badge/-Firebase-%2300758F?style=flat-square&logo=firebase&logoColor=F29111" />
   </a>
 </p>
 <br/>
