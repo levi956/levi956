@@ -47,7 +47,7 @@ I dive into the intricate world of code and technology, I orchestrate seamless a
   </a>
 
   <a href="Python">
-    <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=python" />
+    <img src="https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python" />
   </a>
 
   <a href="Swift">
