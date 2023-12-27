@@ -30,7 +30,7 @@ I dive into the intricate world of code and technology, I orchestrate seamless a
 
 
   <a href="https://www.linkedin.com/in/nifesi-odumirin-7a48361b5/">
-    <img src="https://img.shields.io/badge/-@Pius%20Nifesi%20Odumirin-%230077B5?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-@Nifesi%20Nifesi%20Odumirin-%230077B5?style=flat-square&logo=linkedin" />
   </a>
 </p>
 <br/>
