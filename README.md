@@ -8,11 +8,9 @@ Here are some ideas to get you started:
 
 ### Hey there, I'm Nifesi,
 
-I dive into the intricate world of code and technology, I orchestrate seamless and dazzling experiences through the magic of Flutter Dart. As a fervent mobile development enthusiast, I'm not just about crafting lines of code; I'm about sculpting digital marvels that breathe life into apps.
+I'm a passionate software engineer with proficiency in Dart/Flutter and Golang.
 
-📱 Fluttering in mobile development, I wield the Dart language like a virtuoso, conducting harmonies of user-friendly interfaces and powerful functionalities. With a knack for innovation and an insatiable curiosity, I'm amplifying my skills in Golang and Python libraries.
-
-💡 Fun Fact: Ducks might quack, but I code with a roar! 🦆🚀
+💡 I like ducks 🦆
 
 <!--
 - 🤔 I’m looking for help with ...
