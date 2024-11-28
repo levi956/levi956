@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 
 -->
 
-### Hey there, I'm Nifesi,
+### Hey, I'm Nifesi,
 
-I'm a passionate software engineer with proficiency in Dart/Flutter and Golang.
+I'm a passionate software engineer proficient in Dart/Flutter and Golang.
 
 💡 I like ducks 🦆
 
